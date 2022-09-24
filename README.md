@@ -1,8 +1,8 @@
 ### Odair Lampe
 <br>
 <div style="display: inline_block"><br>
-  Tenho 21 anos, estudando
-  desenvolvimento web há 2 anos. <br>
+  Tenho 22 anos, estudando
+  desenvolvimento web há 3 anos. <br>
   Nas horas vagas gosto de aprimorar meus
   conhecimentos com pequenos projetos
   usando as linguagens de programação
