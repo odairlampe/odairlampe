@@ -1,14 +1,8 @@
 ### Odair Lampe
 <br>
 <div style="display: inline_block"><br>
-  Tenho 22 anos, estudando
-  desenvolvimento web há 3 anos. <br>
   Nas horas vagas gosto de aprimorar meus
-  conhecimentos com pequenos projetos
-  usando as linguagens de programação
-  que domino. Além de programação,
-  possuo conhecimentos em edição de
-  imagem e video (Photoshop, Vegas Pro).
+  conhecimentos com pequenos projetos.
 </div>
 
 <br><br>
